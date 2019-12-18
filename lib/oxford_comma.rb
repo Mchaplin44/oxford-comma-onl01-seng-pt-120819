@@ -1,4 +1,5 @@
 def oxford_comm(array)
-  array.join(",")
+  array.join
+  
 
 end
